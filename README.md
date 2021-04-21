@@ -25,6 +25,7 @@
 * ReactJS
 * NextJS
 * Json-Server
+* Date fns
 * SCSS
 * TypeScript
 
